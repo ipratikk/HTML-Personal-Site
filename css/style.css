@@ -1,0 +1,18 @@
+body {
+  background-color: #EAF6F6;
+  font-family: sans-serif, Serif;
+  font-size: 150%;
+}
+hr {
+  border-color:#d3d3d3;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+}
+h1 {
+  color: #65BFBF
+}
+h3 {
+  color: #65BFBF
+}
